@@ -1,4 +1,4 @@
-package com.siamchamnankit.banking.api.BankingAgentSystem;
+package com.siamchamnankit.banking.api;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
